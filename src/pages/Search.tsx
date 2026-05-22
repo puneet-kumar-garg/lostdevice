@@ -33,7 +33,7 @@ interface SearchResult {
   front_image_url: string | null;
 }
 
-// search page v2
+// search page v3
 export default function Search() {
   const { toast } = useToast();
   const navigate = useNavigate();
