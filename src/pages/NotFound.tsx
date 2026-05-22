@@ -1,7 +1,7 @@
 import { useLocation } from "react-router-dom";
 import { useEffect } from "react";
 
-// not found page v2
+// not found page v3
 const NotFound = () => {
   const location = useLocation();
 
