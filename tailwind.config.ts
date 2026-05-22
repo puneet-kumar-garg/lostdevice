@@ -1,4 +1,4 @@
-// tailwind config v2
+// tailwind config v3
 import type { Config } from "tailwindcss";
 
 export default {
