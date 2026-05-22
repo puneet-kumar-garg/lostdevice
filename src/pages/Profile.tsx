@@ -36,7 +36,7 @@ interface Profile {
   avatar_url: string | null;
 }
 
-// profile page v2
+// profile page v3
 export default function Profile() {
   const navigate = useNavigate();
   const { toast } = useToast();
