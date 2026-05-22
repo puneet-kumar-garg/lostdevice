@@ -26,7 +26,7 @@ interface DeviceReport {
   status: string;
 }
 
-// edit device page v2
+// edit device page v3
 export default function EditDevice() {
   const { id } = useParams();
   const navigate = useNavigate();
