@@ -23,7 +23,7 @@ interface Message {
   };
 }
 
-// messages page v2
+// messages page v3
 export default function Messages() {
   const navigate = useNavigate();
   const { toast } = useToast();
