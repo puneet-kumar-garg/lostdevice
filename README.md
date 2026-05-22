@@ -100,3 +100,4 @@ This project is licensed under the MIT License.
 ## Changelog
 - v1.0.0: Initial release
 - v1.0.2: Bug fixes and improvements
+- v1.0.5: Performance improvements
