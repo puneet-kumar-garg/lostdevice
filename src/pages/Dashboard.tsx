@@ -27,7 +27,7 @@ interface Profile {
   avatar_url: string | null;
 }
 
-// dashboard page v2
+// dashboard page v3
 export default function Dashboard() {
   const navigate = useNavigate();
   const { toast } = useToast();
