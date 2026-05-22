@@ -6,7 +6,7 @@ import { supabase } from "@/integrations/supabase/client";
 import { useEffect, useState } from "react";
 import { Session } from "@supabase/supabase-js";
 
-// header component v2
+// header component v3
 export const Header = () => {
   const [session, setSession] = useState<Session | null>(null);
   const [unreadCount, setUnreadCount] = useState(0);
