@@ -60,7 +60,7 @@ const messageSchema = z.object({
     .or(z.literal('')),
 });
 
-// device detail page v2
+// device detail page v3
 export default function DeviceDetail() {
   const { id } = useParams();
   const navigate = useNavigate();
