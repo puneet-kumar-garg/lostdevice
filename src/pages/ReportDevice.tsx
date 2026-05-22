@@ -11,7 +11,7 @@ import { useToast } from "@/hooks/use-toast";
 import { Upload, Loader2 } from "lucide-react";
 import { Session } from "@supabase/supabase-js";
 
-// report device page v2
+// report device page v3
 export default function ReportDevice() {
   const navigate = useNavigate();
   const { toast } = useToast();
